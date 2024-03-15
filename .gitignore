@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+
+# OS metadata
+.DS_Store  # For macOS
+
+# IDE specific files
+.idea/  # For JetBrains IDEs like PyCharm
+.vscode/  # For Visual Studio Code settings
+*.swp  # For Vim
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
