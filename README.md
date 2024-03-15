@@ -48,8 +48,15 @@ cd shelly-group-task
    pip install -r requirements.txt
    ```
 
+4. **Run test tests**:
+   ```
+   pytest
+   ```
+
+
 To deactivate the virtual environment when you're done, you can run:
 
 ```
 deactivate
 ```
+
