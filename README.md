@@ -48,7 +48,8 @@ cd shelly-group-task
    pip install -r requirements.txt
    ```
 
-4. **Run test tests**:
+4. **Run test tests** 🏍️
+: 
    ```
    pytest
    ```
